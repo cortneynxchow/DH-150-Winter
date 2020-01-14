@@ -158,20 +158,20 @@ Weblink: [Wise Guys Pies](http://www.wiseguyspies.com/index.html)
 <img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72349235-f7df0480-3690-11ea-870e-14b7926d7ffc.png">
 
 
-The website is created for a local pizza company named Wise Guys Pies. This website includes photos, menus, specials, their location, and other interactive activities like surveys. My motivation for using Wise Guys Pies was to examine how a local restruant can interact and appeal to the demands of its customers through their website. Because my project includes working with Westwood's local restaurants for students, evaluating this website will help me identify how to market food to a specific demographic such as creating promotional deals for students.As this will relate back to my project, I wanted to examine Wise Guys Pies for its design, accessibilty, and customer service. My initial evaluation of this website was that the design was old fashioned, unorganized, and unappealing to users. There are also major aspects missing such as an "About Page," " Search Bar," and design consistency between different web pages.
+The website is created for a local pizza company named Wise Guys Pies. This website includes photos, menus, specials, their location, and other interactive activities like surveys. My motivation for using Wise Guys Pies was to examine how a local restaurant can interact and appeal to the demands of its customers through their website. Because my project includes working with Westwood's local restaurants for students, evaluating this website will help me identify how to market food to a specific demographic such as creating promotional deals for students. As this will relate back to my project, I wanted to examine Wise Guys Pies for its design, accessibility, and customer service. My initial evaluation of this website was that the design was old fashioned, unorganized, and unappealing to users. There are also major aspects missing such as an "About Page," " Search Bar," and design consistency between different web pages.
 ______________________________________________________________________________________________________________________________
 
 # Heuristic Evaluation 
 
 **1: Visibility of System Status**
  
- a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibilty to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website. 
+ a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibility to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website. 
  
  <img width="284" alt="Screen Shot 2020-01-14 at 5 43 48 AM" src="https://user-images.githubusercontent.com/59623113/72349508-7e93e180-3691-11ea-8ea2-dfb75fce8655.png">
  
 
 
-b) Feedback also occurs by contacting them through the website if you leave your email, name, and message. This is easy to access with users as it is found on the home page. However, there is no guarentee of response as there is no time frame given for the system to get back to the user. 
+b) Feedback also occurs by contacting them through the website if you leave your email, name, and message. This is easy to access with users as it is found on the home page. However, there is no guarantee of response as there is no time frame given for the system to get back to the user. 
 
 
 <img width="305" alt="Screen Shot 2020-01-14 at 12 48 26 AM" src="https://user-images.githubusercontent.com/59623113/72349241-fad9f500-3690-11ea-86ea-9713487df11f.png">
@@ -187,7 +187,7 @@ ________________________________________________________________________________
 
 **2: Match Between System and Real World**
 
-a) The website uses familiar langauge related to pizza and most American menus. However,there is a repeated category of "specialty pizzas" which can be confusing to the user as the tabs, although similarly labeled, have different menus.
+a) The website uses familiar language related to pizza and most American menus. However,there is a repeated category of "specialty pizzas" which can be confusing to the user as the tabs, although similarly labeled, have different menus.
 
 <img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
 
@@ -240,7 +240,7 @@ b) No “About Us” or “FAQ” category. Although there is information about 
 
 <img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72349235-f7df0480-3690-11ea-870e-14b7926d7ffc.png">
 
-c) The "home" button remains consistent to a users expectations as it is used to go back to the main menu. This can make the user more familiar with the site. 
+c) The "home" button remains consistent to a user's expectations as it is used to go back to the main menu. This can make the user more familiar with the site. 
 
 <img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
 
@@ -252,13 +252,13 @@ ________________________________________________________________________________
 
 **5:Error Prevention**
 
-a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
+a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required fields" if any are left empty. 
 
 <img width="312" alt="Screen Shot 2020-01-14 at 4 17 03 AM" src="https://user-images.githubusercontent.com/59623113/72350795-f531de80-3693-11ea-82dd-25692fe7fbac.png">
 
 b) In the survey for a user's favorite pie, you can submit your answer without filling in an answer. However, the vote is not counted so the number remains accurate.
 
-c) In the survey for a user's favorite pie, the system prevents you from selecing more than one option as this would skew results. 
+c) In the survey for a user's favorite pie, the system prevents you from selecting more than one option as this would skew results. 
 
 <img width="311" alt="Screen Shot 2020-01-14 at 4 13 34 AM" src="https://user-images.githubusercontent.com/59623113/72350808-fcf18300-3693-11ea-9d94-5fc913cf8965.png">
 
@@ -287,7 +287,7 @@ ________________________________________________________________________________
 
 **8:Aesthetic and Minimalist Design**
 
-a) The design is not appealing to consumers and appears to be out-of-date. The design is too cluttered and unorganized. This can be difficult to the user as he/she/they will have to spend more time and effort to look over the menu. There is also a repeat category of "Specialty Pizzas" which adds to the unorganization of the design
+a) The design is not appealing to consumers and appears to be out-of-date. The design is too cluttered and unorganized. This can be difficult to the user as he/she/they will have to spend more time and effort to look over the menu. There is also a repeat category of "Specialty Pizzas" which adds to the disorganization of the design
 
 <img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72350851-0ed32600-3694-11ea-9451-1803262d89b0.png">
 
@@ -297,7 +297,7 @@ ________________________________________________________________________________
 
 **9:Help Users Recognize, Diagnose, & Recover From Errors**
 
-a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
+a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required fields" if any are left empty. 
 
 <img width="312" alt="Screen Shot 2020-01-14 at 4 17 03 AM" src="https://user-images.githubusercontent.com/59623113/72350795-f531de80-3693-11ea-82dd-25692fe7fbac.png">
 
@@ -315,7 +315,7 @@ ________________________________________________________________________________
 
 a) There is minimal guidance as there is a "Contact Us" form but no active feedback between the system and the user. There is also no "FAQ" or "About Section" which aids in helping users that need instruction or answers to questions. 
 
-b) There is no search bar so it is difficult for users to find specific items they want on a menu as it has been seperated into 8 categories. Thus, a user who is no familiar with the site may have to go through all these tabs in order to see if the menu has what he/she/they are looking for. 
+b) There is no search bar so it is difficult for users to find specific items they want on a menu as it has been separated into 8 categories. Thus, a user who is no familiar with the site may have to go through all these tabs in order to see if the menu has what he/she/they are looking for. 
  
 
 
