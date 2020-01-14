@@ -1,4 +1,4 @@
-# Project: College Clean Up 
+# Project: "College Clean Up"
 
 # DH150 Assignment 01: Heuristic Evaluation by Cortney Chow
 
