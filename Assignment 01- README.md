@@ -78,9 +78,15 @@ ________________________________________________________________________________
 
 a) The website has restraints on what users can look up and tries its search system (although it does not work) recommends words to prevent misspelling or offer suggestions 
 
+<img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72340441-13d8ab00-367d-11ea-8350-2de600a8c3dd.png">
+
 b) The whole website restricts what users can do and what content is available so the website is mostly user error free. You cannot create an account and the search button does not work. Thus, users are limited to the articles in the website.
 
-c) The option to join the mailing list by clicking the "Sign Up" button does not work and will not tell users why it does not work as the web page will remain stagnant and not to an error page. 
+c) The option to join the mailing list by clicking the "Sign Up" button does not work and will not tell users why it does not work as the web page will remain stagnant and not to an error page.
+
+<img width="1209" alt="Screen Shot 2020-01-13 at 10 34 38 PM" src="https://user-images.githubusercontent.com/59623113/72340543-3ff42c00-367d-11ea-863e-9ab2c31656f6.png">
+
+
 
 *Severity Rating:* 2
 ______________________________________________________________________________________________________________________________
@@ -89,7 +95,11 @@ ________________________________________________________________________________
 
 a) There is a 404 error when searching for items in the search bar which is accessed in the baby category. For example, I searched the word "cat" and nothing appeared. 
 
+<img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72340465-1d621300-367d-11ea-99d7-b3b1ba043e0f.png">
+
 b) Although the search bard does not work, it still has the function of auto fill which makes it easier for users to filter out information and makes it easier for users to recognize things they want to search
+
+<img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72340441-13d8ab00-367d-11ea-8350-2de600a8c3dd.png">
 
 *Severity Rating:* 0
 ______________________________________________________________________________________________________________________________
@@ -109,6 +119,8 @@ ________________________________________________________________________________
 
 a) Aesthetically designed as it is not too cluttered. Minimalistic design that uses negative space and simplistic designs to make the articles the focal point, not the design 
 
+<img width="1680" alt="Cleanepedia Home Page" src="https://user-images.githubusercontent.com/59623113/72332282-9e65de00-366e-11ea-8568-35327ecf87ca.png">
+
 
 *Severity Rating:* 0
 ______________________________________________________________________________________________________________________________
@@ -118,9 +130,13 @@ ________________________________________________________________________________
 
 a) Sign up button does not work and will not give users an error or help page on why you cannot sign up for their mailing list
 
+<img width="1209" alt="Screen Shot 2020-01-13 at 10 34 38 PM" src="https://user-images.githubusercontent.com/59623113/72340543-3ff42c00-367d-11ea-863e-9ab2c31656f6.png">
+
 b) 404 error encountered through search bar 
 
-*Severity Rating:* 3
+<img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72340465-1d621300-367d-11ea-99d7-b3b1ba043e0f.png">
+
+*Severity Rating:* 1
 ______________________________________________________________________________________________________________________________
 
 **10:Help and Documentation**
@@ -131,5 +147,15 @@ b) There is no contact us page, no help page, no FAQ form-- thus, no guidance fo
 
 c) Users do not know who runs the page, do not have people to contact about the information and to not have platforms to review the website
 
+<img width="862" alt="Screen Shot 2020-01-13 at 10 50 41 PM" src="https://user-images.githubusercontent.com/59623113/72339933-1be41b00-367c-11ea-9e19-3d07d6d97887.png">
+
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
+
+<img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72340441-13d8ab00-367d-11ea-8350-2de600a8c3dd.png">
+
+<img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72340465-1d621300-367d-11ea-99d7-b3b1ba043e0f.png">
+
+<img width="1276" alt="Screen Shot 2020-01-13 at 10 58 27 PM" src="https://user-images.githubusercontent.com/59623113/72340493-27841180-367d-11ea-83d3-184e8b53a521.png">
+
+<img width="1209" alt="Screen Shot 2020-01-13 at 10 34 38 PM" src="https://user-images.githubusercontent.com/59623113/72340543-3ff42c00-367d-11ea-863e-9ab2c31656f6.png">
