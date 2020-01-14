@@ -155,6 +155,7 @@ ________________________________________________________________________________
 # Information About Website for the Second Heuristic Evaluation:
 Weblink: [Wise Guys Pies](http://www.wiseguyspies.com/index.html) 
 
+<img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72349235-f7df0480-3690-11ea-870e-14b7926d7ffc.png">
 
 
 The website is created for a local pizza company named Wise Guys Pies. This website includes photos, menus, specials, their location, and other interactive activities like surveys. My motivation for using Wise Guys Pies was to examine how a local restruant can interact and appeal to the demands of its customers through their website. Because my project includes working with Westwood's local restaurants for students, evaluating this website will help me identify how to market food to a specific demographic such as creating promotional deals for students.As this will relate back to my project, I wanted to examine Wise Guys Pies for its design, accessibilty, and customer service. My initial evaluation of this website was that the design was old fashioned, unorganized, and unappealing to users. There are also major aspects missing such as an "About Page," " Search Bar," and design consistency between different web pages.
@@ -165,11 +166,13 @@ ________________________________________________________________________________
 **1: Visibility of System Status**
  
  a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibilty to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
-
+ 
 
 
 b) Feedback also occurs by contacting them through the website if you leave your email, name, and message. This is easy to access with users as it is found on the home page. However, there is no guarentee of response as there is no time frame given for the system to get back to the user. 
 
+
+<img width="305" alt="Screen Shot 2020-01-14 at 12 48 26 AM" src="https://user-images.githubusercontent.com/59623113/72349241-fad9f500-3690-11ea-86ea-9713487df11f.png">
 
 
 c)Feedback also comes in the form of a survey about the users' favorite pie. Users are given options about their favorite pies from that restaurant and other users' can see the responses. However, this is also located in the "Extras/Specials" tab rather than a "Help" or "About" page. Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
@@ -260,9 +263,11 @@ ________________________________________________________________________________
 
 a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
 
+b) The website does not know when an email is valid or not, thus, fake emails can pass through the system undetected in the "Contact Us" page 
 
 
-*Severity Rating:* 0
+
+*Severity Rating:* 1
 ______________________________________________________________________________________________________________________________
 
 **10:Help and Documentation**
