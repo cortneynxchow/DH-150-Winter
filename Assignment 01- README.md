@@ -228,7 +228,8 @@ a) The website does not have a consistent design template with each category. If
 
 HOAGIES/WEDGIES MENU:
 
-<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+<img width="613" alt="Screen Shot 2020-01-14 at 12 49 53 AM" src="https://user-images.githubusercontent.com/59623113/72350779-ec410d00-3693-11ea-86cc-d2a4b4499245.png">
+
 
 DESSERTS/DRINKS MENU:
 
@@ -253,9 +254,13 @@ ________________________________________________________________________________
 
 a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
 
+<img width="312" alt="Screen Shot 2020-01-14 at 4 17 03 AM" src="https://user-images.githubusercontent.com/59623113/72350795-f531de80-3693-11ea-82dd-25692fe7fbac.png">
+
 b) In the survey for a user's favorite pie, you can submit your answer without filling in an answer. However, the vote is not counted so the number remains accurate.
 
 c) In the survey for a user's favorite pie, the system prevents you from selecing more than one option as this would skew results. 
+
+<img width="311" alt="Screen Shot 2020-01-14 at 4 13 34 AM" src="https://user-images.githubusercontent.com/59623113/72350808-fcf18300-3693-11ea-9d94-5fc913cf8965.png">
 
 *Severity Rating:* 0
 ______________________________________________________________________________________________________________________________
@@ -271,6 +276,8 @@ ________________________________________________________________________________
 
 a) The only shortcuts are the tabs in the tool bar that will guide users to food categories
 
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72350835-07138180-3694-11ea-816c-9435fa99a8c3.png">
+
 b) There is no search bar so users will have to look over the whole menu to find what they would like to order
 
 c)  Difficult to cater to “expert” users as there are not functions that can make it easier for an experienced user to find food items quickly such as a “Favorites” function. There are no other tailoring options besides the tool bar tabs so this website design is not flexible and only has one format for novice and experienced users
@@ -282,6 +289,8 @@ ________________________________________________________________________________
 
 a) The design is not appealing to consumers and appears to be out-of-date. The design is too cluttered and unorganized. This can be difficult to the user as he/she/they will have to spend more time and effort to look over the menu. There is also a repeat category of "Specialty Pizzas" which adds to the unorganization of the design
 
+<img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72350851-0ed32600-3694-11ea-9451-1803262d89b0.png">
+
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
 
@@ -290,7 +299,12 @@ ________________________________________________________________________________
 
 a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
 
+<img width="312" alt="Screen Shot 2020-01-14 at 4 17 03 AM" src="https://user-images.githubusercontent.com/59623113/72350795-f531de80-3693-11ea-82dd-25692fe7fbac.png">
+
+
 b) The website does not know when an email is valid or not, thus, fake emails can pass through the system undetected in the "Contact Us" page 
+
+<img width="305" alt="Screen Shot 2020-01-14 at 12 48 26 AM" src="https://user-images.githubusercontent.com/59623113/72350864-185c8e00-3694-11ea-85d6-0216b873a5cf.png">
 
 
 
