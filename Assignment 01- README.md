@@ -97,7 +97,7 @@ a) There is a 404 error when searching for items in the search bar which is acce
 
 <img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72340465-1d621300-367d-11ea-99d7-b3b1ba043e0f.png">
 
-b) Although the search bard does not work, it still has the function of auto fill which makes it easier for users to filter out information and makes it easier for users to recognize things they want to search
+b) Although the search bar does not work, it still has the function of auto fill which makes it easier for users to filter out information and makes it easier for users to recognize things they want to search
 
 <img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72340441-13d8ab00-367d-11ea-8350-2de600a8c3dd.png">
 
@@ -152,10 +152,128 @@ c) Users do not know who runs the page, do not have people to contact about the 
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
 
-<img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72340441-13d8ab00-367d-11ea-8350-2de600a8c3dd.png">
+# Information About Website for the Second Heuristic Evaluation:
+Weblink: [Wise Guys Pies](http://www.wiseguyspies.com/index.html) 
 
-<img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72340465-1d621300-367d-11ea-99d7-b3b1ba043e0f.png">
 
-<img width="1276" alt="Screen Shot 2020-01-13 at 10 58 27 PM" src="https://user-images.githubusercontent.com/59623113/72340493-27841180-367d-11ea-83d3-184e8b53a521.png">
 
-<img width="1209" alt="Screen Shot 2020-01-13 at 10 34 38 PM" src="https://user-images.githubusercontent.com/59623113/72340543-3ff42c00-367d-11ea-863e-9ab2c31656f6.png">
+The website is created for a local pizza company named Wise Guys Pies. This website includes photos, menus, specials, their location, and other interactive activities like surveys. My motivation for using Wise Guys Pies was to examine how a local restruant can interact and appeal to the demands of its customers through their website. Because my project includes working with Westwood's local restaurants for students, evaluating this website will help me identify how to market food to a specific demographic such as creating promotional deals for students.As this will relate back to my project, I wanted to examine Wise Guys Pies for its design, accessibilty, and customer service. My initial evaluation of this website was that the design was old fashioned, unorganized, and unappealing to users. There are also major aspects missing such as an "About Page," " Search Bar," and design consistency between different web pages.
+______________________________________________________________________________________________________________________________
+
+# Heuristic Evaluation 
+
+**1: Visibility of System Status**
+ 
+ a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibilty to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
+
+
+
+b) Feedback also occurs by contacting them through the website if you leave your email, name, and message. This is easy to access with users as it is found on the home page. However, there is no guarentee of response as there is no time frame given for the system to get back to the user. 
+
+
+
+c)Feedback also comes in the form of a survey about the users' favorite pie. Users are given options about their favorite pies from that restaurant and other users' can see the responses. However, this is also located in the "Extras/Specials" tab rather than a "Help" or "About" page. Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
+
+
+
+
+*Severity Rating:* 2
+______________________________________________________________________________________________________________________________
+
+**2: Match Between System and Real World**
+
+a) The website uses familiar langauge related to pizza and most American menus. However,there is a repeated category of "specialty pizzas" which can be confusing to the user as the tabs, although similarly labeled, have different menus. 
+
+
+
+
+*Severity Rating:* 1
+______________________________________________________________________________________________________________________________
+
+**3: User Control and Freedom**
+
+a) Users can exit out of external web links from the website such as the user poll 
+
+
+b) Users can navigate the site with ease as there is a “home" button in the menu. There are also categories such as "PASTA/SALADS" which will take you to a different part of the menu. 
+
+c) Because the website is being used on a browser, using the “back button” and “x” button to leave the site makes it easy for users to have more control.
+
+
+
+
+*Severity Rating:* 0
+______________________________________________________________________________________________________________________________
+
+**4:Consistency and Standards**
+
+a) The website does not have a consistent design template with each category. If a user clicks the "Hoagies & Wedgies" Tab, they will be presented with a pdf of the menu. However, if the user clicks "DESSERTS/DRINKS" the menu becomes font on a screen (not a pdf). This makes it difficult for the user to navigate and understand the website as it lacks in consistency. 
+
+b) No “About Us” or “FAQ” category. Although there is information about the restaurant like the phone number and address, there is not statement from the business or their history as an establishment. This information can be important to consumers as this can answer questions about ingredients and why it is a credible establishment. 
+
+
+c) The "home" button remains consistent to a users expectations as it is used to go back to the main menu. This can make the user more familiar with the site. 
+
+
+
+*Severity Rating:* 3
+______________________________________________________________________________________________________________________________
+
+**5:Error Prevention**
+
+a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
+
+b) In the survey for a user's favorite pie, you can submit your answer without filling in an answer. However, the vote is not counted so the number remains accurate.
+
+c) In the survey for a user's favorite pie, the system prevents you from selecing more than one option as this would skew results. 
+
+*Severity Rating:* 0
+______________________________________________________________________________________________________________________________
+
+**6:Recognition Rather Than Recall**
+
+a) The toolbar may be easier for users to understand as the menu is broken up into typical categories that pizza and Italian food are subject to. However, the website does not make things easier for the user as there is no search bar, past order history, or other functions that help make ordering easier for the users. Instead, they have to recall what they ordered last time or remember what section of the menu has their favorite foods. 
+
+*Severity Rating:* 3
+______________________________________________________________________________________________________________________________
+
+**7:Flexibility and Efficiency of Use**
+
+a) The only shortcuts are the tabs in the tool bar that will guide users to food categories
+
+b) There is no search bar so users will have to look over the whole menu to find what they would like to order
+
+c)  Difficult to cater to “expert” users as there are not functions that can make it easier for an experienced user to find food items quickly such as a “Favorites” function. There are no other tailoring options besides the tool bar tabs so this website design is not flexible and only has one format for novice and experienced users
+
+*Severity Rating:* 3
+______________________________________________________________________________________________________________________________
+
+**8:Aesthetic and Minimalist Design**
+
+a) The design is not appealing to consumers and appears to be out-of-date. The design is too cluttered and unorganized. This can be difficult to the user as he/she/they will have to spend more time and effort to look over the menu. There is also a repeat category of "Specialty Pizzas" which adds to the unorganization of the design
+
+*Severity Rating:* 3
+______________________________________________________________________________________________________________________________
+
+
+**9:Help Users Recognize, Diagnose, & Recover From Errors**
+
+a) When you want to submit a message through "Contact Us," in order for the company to get back to you they need your email thus, there is a prevention that says "please fill the required feidls" if any are left empty. 
+
+
+
+*Severity Rating:* 0
+______________________________________________________________________________________________________________________________
+
+**10:Help and Documentation**
+
+a) There is minimal guidance as there is a "Contact Us" form but no active feedback between the system and the user. There is also no "FAQ" or "About Section" which aids in helping users that need instruction or answers to questions. 
+
+b) There is no search bar so it is difficult for users to find specific items they want on a menu as it has been seperated into 8 categories. Thus, a user who is no familiar with the site may have to go through all these tabs in order to see if the menu has what he/she/they are looking for. 
+ 
+
+
+*Severity Rating:* 3
+______________________________________________________________________________________________________________________________
+
+
