@@ -31,28 +31,19 @@ c) The website does allow users to see how many articles there are in each categ
 
 a) The website uses familiar jargon when categorizing the different types of housekeeping such as Kitchen Cleaning, Laundry, Bathroom, and more. However, there are unncessary categories that overlap with one another, making it difficult to find specific articles you want to view as you may have to go through multiple tabs. For example, if I want to know how to organize my medicine cabinet should I go to the tab "In the Home" or "Kitchen Cleaning"? This is example is applicable to the everyday user as categories that may have similarities can make it harder for users to access the information. 
 
-<img width="1556" alt="Screen Shot 2020-01-13 at 10 39 06 PM" src="https://user-images.githubusercontent.com/59623113/72335282-93617c80-3673-11ea-9507-7941e0160953.png">
+<img width="1556" alt="Screen Shot 2020-01-13 at 10 39 06 PM" src="https://user-images.githubusercontent.com/59623113/72335575-08cd4d00-3674-11ea-86f3-f433c93e64b6.png">
 
+**3: User Control and Freedom**
 
-
-
-
-
-
-<img width="1209" alt="Screen Shot 2020-01-13 at 10 34 38 PM" src="https://user-images.githubusercontent.com/59623113/72335289-952b4000-3673-11ea-8859-fcd1d24243b9.png">
+a) Users are able to exit articles quickly by either clicking “Cleanipedia” for the homepage, backspace in the browser, clicking recommended articles at the end of the web page, or by clicking on other categories in the tool bar above. This makes it so users can access other articles and informatiom with ease as there are many ways to leave a web page. 
 
 <img width="327" alt="Screen Shot 2020-01-13 at 10 47 22 PM" src="https://user-images.githubusercontent.com/59623113/72335300-9a888a80-3673-11ea-865b-2499aefd6ff2.png">
 
-<img width="790" alt="Screen Shot 2020-01-13 at 10 48 02 PM" src="https://user-images.githubusercontent.com/59623113/72335317-a07e6b80-3673-11ea-8c74-97d990f6ccef.png">
 
-<img width="862" alt="Screen Shot 2020-01-13 at 10 50 41 PM" src="https://user-images.githubusercontent.com/59623113/72335324-a4aa8900-3673-11ea-83e6-8f7f6ab6babc.png">
 
-<img width="1203" alt="Screen Shot 2020-01-13 at 10 55 45 PM" src="https://user-images.githubusercontent.com/59623113/72335330-a8d6a680-3673-11ea-8bbe-dc5c573283c2.png">
 
-<img width="1509" alt="Screen Shot 2020-01-13 at 10 57 26 PM" src="https://user-images.githubusercontent.com/59623113/72335336-ad02c400-3673-11ea-9583-f7f400249229.png">
 
-<img width="1547" alt="Screen Shot 2020-01-13 at 10 57 33 PM" src="https://user-images.githubusercontent.com/59623113/72335346-b2600e80-3673-11ea-8ca7-cdbd7d1d7e0f.png">
 
-<img width="1276" alt="Screen Shot 2020-01-13 at 10 58 27 PM" src="https://user-images.githubusercontent.com/59623113/72335353-b5f39580-3673-11ea-9d45-ec20e8731016.png">
 
-<img width="752" alt="Screen Shot 2020-01-13 at 11 11 54 PM" src="https://user-images.githubusercontent.com/59623113/72335368-bb50e000-3673-11ea-96bd-974574d291a3.png">
+
+
