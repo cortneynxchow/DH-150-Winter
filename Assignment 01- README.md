@@ -26,7 +26,7 @@ b) Does not enable users to receive feedback on how long an article will take to
 
 c) The website does allow users to see how many articles there are in each category/tab. Therefore, users will know the number of articles they are viewing and how many articles there are in total.
 
-<img width="453" alt="Screen Shot 2020-01-13 at 10 27 26 PM" src="https://user-images.githubusercontent.com/59623113/72333767-36fd5d80-3671-11ea-9444-ec9cc38c1b10.png">
+<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
 
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
@@ -165,7 +165,9 @@ ________________________________________________________________________________
 
 **1: Visibility of System Status**
  
- a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibilty to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
+ a) Feedback that users can give regarding the website is signing into their online guest book and leaving comments. However, there is only one comment in the book and lacks visibilty to other users. This is also located in the "Extras/Specials" tab rather than a "Help" or "About" page.  Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website. 
+ 
+ <img width="284" alt="Screen Shot 2020-01-14 at 5 43 48 AM" src="https://user-images.githubusercontent.com/59623113/72349508-7e93e180-3691-11ea-8ea2-dfb75fce8655.png">
  
 
 
@@ -177,7 +179,7 @@ b) Feedback also occurs by contacting them through the website if you leave your
 
 c)Feedback also comes in the form of a survey about the users' favorite pie. Users are given options about their favorite pies from that restaurant and other users' can see the responses. However, this is also located in the "Extras/Specials" tab rather than a "Help" or "About" page. Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
 
-
+<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
 
 
 *Severity Rating:* 2
@@ -185,7 +187,11 @@ ________________________________________________________________________________
 
 **2: Match Between System and Real World**
 
-a) The website uses familiar langauge related to pizza and most American menus. However,there is a repeated category of "specialty pizzas" which can be confusing to the user as the tabs, although similarly labeled, have different menus. 
+a) The website uses familiar langauge related to pizza and most American menus. However,there is a repeated category of "specialty pizzas" which can be confusing to the user as the tabs, although similarly labeled, have different menus.
+
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+
+
 
 
 
@@ -197,8 +203,14 @@ ________________________________________________________________________________
 
 a) Users can exit out of external web links from the website such as the user poll 
 
+<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
+
 
 b) Users can navigate the site with ease as there is a “home" button in the menu. There are also categories such as "PASTA/SALADS" which will take you to a different part of the menu. 
+
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+
+
 
 c) Because the website is being used on a browser, using the “back button” and “x” button to leave the site makes it easy for users to have more control.
 
@@ -281,4 +293,8 @@ b) There is no search bar so it is difficult for users to find specific items th
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
 
-
+<img width="284" alt="Screen Shot 2020-01-14 at 5 43 48 AM" src="https://user-images.githubusercontent.com/59623113/72349508-7e93e180-3691-11ea-8ea2-dfb75fce8655.png">
+<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+<img width="613" alt="Screen Shot 2020-01-14 at 12 49 53 AM" src="https://user-images.githubusercontent.com/59623113/72349529-8bb0d080-3691-11ea-89a7-ba83b9fd91c3.png">
+<img width="1213" alt="Screen Shot 2020-01-14 at 12 49 47 AM" src="https://user-images.githubusercontent.com/59623113/72349536-8eabc100-3691-11ea-8797-590006f0e812.png">
