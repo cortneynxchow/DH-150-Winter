@@ -21,8 +21,13 @@ The website is a housekeeping encyclopedia powered by Unilever that functions as
 
 b) Does not enable users to recieve feedback on how long an article will take to load or how long an article will be. For example, there is a "read more" icon for users to click in order to read the article but does not specify the length of the article. Thus, users may find it difficult to find all the information at once and does not inform the reader how concise or lenghy the article may be. 
 
+<img width="1045" alt="Screen Shot 2020-01-13 at 10 32 06 PM" src="https://user-images.githubusercontent.com/59623113/72334340-00741280-3672-11ea-80f6-b94019251e7e.png">
 
+c) The website does allow users to see how many articles there are in each category/tab. Therefore, users will know the number of articles they are viewing and how many articles there are in total.
 
 <img width="453" alt="Screen Shot 2020-01-13 at 10 27 26 PM" src="https://user-images.githubusercontent.com/59623113/72333767-36fd5d80-3671-11ea-9444-ec9cc38c1b10.png">
 
+**2: Match Between System and Real World**
+
+a) The website uses familiar jargon when categorizing the different types of housekeeping such as Kitchen Cleaning, Laundry, Bathroom, and more. However, there are unncessary categories that overlap with one another, making it difficult to find specific articles you want to view as you may have to go through multiple tabs. For example, if I want to know how to organize my medicine cabinet should I go to the tab "In the Home" or "Kitchen Cleaning"? This is example is applicable to the everyday user as categories that may have similarities can make it harder for users to access the information. 
 
