@@ -179,7 +179,7 @@ b) Feedback also occurs by contacting them through the website if you leave your
 
 c)Feedback also comes in the form of a survey about the users' favorite pie. Users are given options about their favorite pies from that restaurant and other users' can see the responses. However, this is also located in the "Extras/Specials" tab rather than a "Help" or "About" page. Because of this placement, it can make it difficult for a user to leave a comment as it is not located in a more sensible part of the website.  
 
-<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
+<img width="311" alt="Screen Shot 2020-01-14 at 4 13 34 AM" src="https://user-images.githubusercontent.com/59623113/72350041-8011d980-3692-11ea-97f9-708d7592562d.png">
 
 
 *Severity Rating:* 2
@@ -214,6 +214,8 @@ b) Users can navigate the site with ease as there is a “home" button in the me
 
 c) Because the website is being used on a browser, using the “back button” and “x” button to leave the site makes it easy for users to have more control.
 
+<img width="587" alt="Screen Shot 2020-01-14 at 5 53 54 AM" src="https://user-images.githubusercontent.com/59623113/72350054-843df700-3692-11ea-9b52-92e19ae685f9.png">
+
 
 
 
@@ -224,10 +226,23 @@ ________________________________________________________________________________
 
 a) The website does not have a consistent design template with each category. If a user clicks the "Hoagies & Wedgies" Tab, they will be presented with a pdf of the menu. However, if the user clicks "DESSERTS/DRINKS" the menu becomes font on a screen (not a pdf). This makes it difficult for the user to navigate and understand the website as it lacks in consistency. 
 
+HOAGIES/WEDGIES MENU:
+
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+
+DESSERTS/DRINKS MENU:
+
+<img width="1213" alt="Screen Shot 2020-01-14 at 12 49 47 AM" src="https://user-images.githubusercontent.com/59623113/72349536-8eabc100-3691-11ea-8797-590006f0e812.png">
+
+
 b) No “About Us” or “FAQ” category. Although there is information about the restaurant like the phone number and address, there is not statement from the business or their history as an establishment. This information can be important to consumers as this can answer questions about ingredients and why it is a credible establishment. 
 
+<img width="1206" alt="Screen Shot 2020-01-14 at 5 43 15 AM" src="https://user-images.githubusercontent.com/59623113/72349235-f7df0480-3690-11ea-870e-14b7926d7ffc.png">
 
 c) The "home" button remains consistent to a users expectations as it is used to go back to the main menu. This can make the user more familiar with the site. 
+
+<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
+
 
 
 
@@ -293,12 +308,5 @@ b) There is no search bar so it is difficult for users to find specific items th
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
 
-<img width="284" alt="Screen Shot 2020-01-14 at 5 43 48 AM" src="https://user-images.githubusercontent.com/59623113/72349508-7e93e180-3691-11ea-8ea2-dfb75fce8655.png">
-<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
-<img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
-<img width="613" alt="Screen Shot 2020-01-14 at 12 49 53 AM" src="https://user-images.githubusercontent.com/59623113/72349529-8bb0d080-3691-11ea-89a7-ba83b9fd91c3.png">
-<img width="1213" alt="Screen Shot 2020-01-14 at 12 49 47 AM" src="https://user-images.githubusercontent.com/59623113/72349536-8eabc100-3691-11ea-8797-590006f0e812.png">
-<img width="311" alt="Screen Shot 2020-01-14 at 4 13 34 AM" src="https://user-images.githubusercontent.com/59623113/72350041-8011d980-3692-11ea-97f9-708d7592562d.png">
-<img width="587" alt="Screen Shot 2020-01-14 at 5 53 54 AM" src="https://user-images.githubusercontent.com/59623113/72350054-843df700-3692-11ea-9b52-92e19ae685f9.png">
-<img width="1195" alt="Screen Shot 2020-01-14 at 5 49 29 AM" src="https://user-images.githubusercontent.com/59623113/72350062-886a1480-3692-11ea-86d3-5424f7df0fec.png">
+
 
