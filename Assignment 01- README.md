@@ -16,3 +16,13 @@ The website is a housekeeping encyclopedia powered by Unilever that functions as
 **1: Visibility of System Status**
  
  a) Only feedback that users can give regarding the website is a thumbs down or thumbs up for the helpfulness of an article. Users cannot share any comments about the articles but use the thumbs up and thumbs down system which is a weak method of feedback between users and the system because it is vague. It is difficult for users to actually give construtive criticism or voice their concerns regarding problems with the site. 
+
+<img width="821" alt="Screen Shot 2020-01-13 at 10 26 07 PM" src="https://user-images.githubusercontent.com/59623113/72333753-31077c80-3671-11ea-83e8-3a05b2b6b34c.png">
+
+b) Does not enable users to recieve feedback on how long an article will take to load or how long an article will be. For example, there is a "read more" icon for users to click in order to read the article but does not specify the length of the article. Thus, users may find it difficult to find all the information at once and does not inform the reader how concise or lenghy the article may be. 
+
+
+
+<img width="453" alt="Screen Shot 2020-01-13 at 10 27 26 PM" src="https://user-images.githubusercontent.com/59623113/72333767-36fd5d80-3671-11ea-9444-ec9cc38c1b10.png">
+
+
