@@ -6,4 +6,4 @@ The community I want to join with my UX Design is my demographic, college studen
 
 # Information About Website for the First Heuristic Evaluation:
 Weblink: [Cleanipedia](https://www.cleanipedia.com/gb/home.html) 
-![GitHub Logo](<img width="1680" alt="Cleanepedia Home Page" src="https://user-images.githubusercontent.com/59623113/72331858-c274ef80-366d-11ea-95b4-3c63e242b166.png">)
+Format: ![Alt Text](url)
