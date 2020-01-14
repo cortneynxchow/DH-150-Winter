@@ -56,13 +56,20 @@ a) The website does not have a consistent design template with each category. If
 
 Standard Website Template:
 
+<img width="1292" alt="Screen Shot 2020-01-14 at 3 14 25 AM" src="https://user-images.githubusercontent.com/59623113/72339898-03740080-367c-11ea-9880-00c96a890f20.png">
+
+
 Inconsistent Web Page: 
+
+<img width="1203" alt="Screen Shot 2020-01-13 at 10 55 45 PM" src="https://user-images.githubusercontent.com/59623113/72339838-ea6b4f80-367b-11ea-882e-b0a2cea65771.png">
 
 b) No typical “About Us” or “FAQ” tab. User has to scroll down to the bottom of the website with small text to know what company runs this website or click on the “Privacy Policy” or “Legal Notice” to know more about the website. This is not the  typical way to find information or contact those that run the site. Although there is company name at the bottom of the site, there is not a link to the company and no more information about who is producing the content or web design. 
 
-
+<img width="862" alt="Screen Shot 2020-01-13 at 10 50 41 PM" src="https://user-images.githubusercontent.com/59623113/72339933-1be41b00-367c-11ea-9e19-3d07d6d97887.png">
 
 c) However, the website does underline links with different color (blue) which is consistent with a user's experience.
+
+<img width="790" alt="Screen Shot 2020-01-13 at 10 48 02 PM" src="https://user-images.githubusercontent.com/59623113/72339956-21416580-367c-11ea-847c-925c6a6e4e3a.png">
 
 *Severity Rating:*
 ______________________________________________________________________________________________________________________________
