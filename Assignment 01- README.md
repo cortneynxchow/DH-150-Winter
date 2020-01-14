@@ -26,7 +26,7 @@ b) Does not enable users to receive feedback on how long an article will take to
 
 c) The website does allow users to see how many articles there are in each category/tab. Therefore, users will know the number of articles they are viewing and how many articles there are in total.
 
-<img width="508" alt="Screen Shot 2020-01-14 at 4 15 24 AM" src="https://user-images.githubusercontent.com/59623113/72349512-80f63b80-3691-11ea-9679-dffebd376129.png">
+<img width="453" alt="Screen Shot 2020-01-13 at 10 27 26 PM" src="https://user-images.githubusercontent.com/59623113/72350028-7a1bf880-3692-11ea-81ae-e10c7c664d22.png">
 
 *Severity Rating:* 3
 ______________________________________________________________________________________________________________________________
@@ -298,3 +298,7 @@ ________________________________________________________________________________
 <img width="1046" alt="Screen Shot 2020-01-14 at 4 14 04 AM" src="https://user-images.githubusercontent.com/59623113/72349516-8489c280-3691-11ea-8efd-9fa3065d61d9.png">
 <img width="613" alt="Screen Shot 2020-01-14 at 12 49 53 AM" src="https://user-images.githubusercontent.com/59623113/72349529-8bb0d080-3691-11ea-89a7-ba83b9fd91c3.png">
 <img width="1213" alt="Screen Shot 2020-01-14 at 12 49 47 AM" src="https://user-images.githubusercontent.com/59623113/72349536-8eabc100-3691-11ea-8797-590006f0e812.png">
+<img width="311" alt="Screen Shot 2020-01-14 at 4 13 34 AM" src="https://user-images.githubusercontent.com/59623113/72350041-8011d980-3692-11ea-97f9-708d7592562d.png">
+<img width="587" alt="Screen Shot 2020-01-14 at 5 53 54 AM" src="https://user-images.githubusercontent.com/59623113/72350054-843df700-3692-11ea-9b52-92e19ae685f9.png">
+<img width="1195" alt="Screen Shot 2020-01-14 at 5 49 29 AM" src="https://user-images.githubusercontent.com/59623113/72350062-886a1480-3692-11ea-86d3-5424f7df0fec.png">
+
